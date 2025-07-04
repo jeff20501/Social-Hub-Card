@@ -20,7 +20,7 @@ One of the main challenges was deciding how to structure the buttons. I wasn’t
 
 ### screenshot
 
-![](./assets/images/Screenshot_3-7-2025_20117_.jpeg)
+![](./social-links-profile-main/assets/images/Screenshot_3-7-2025_20117_.jpeg)
 
 
 ## My process
