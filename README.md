@@ -28,7 +28,7 @@ This small project helped me reinforce core HTML, CSS, and JavaScript concepts w
 
 ### Built with
 
--HTML: Structured the page semantically using elements like <section>, <ul>, <li>, and <button>.
+-HTML: Structured the page semantically using elements like ```<section>, <ul>, <li>, and <button>.```
 
 CSS: Applied custom styling with modern design principles, including flexbox-like centering, hover effects, rounded buttons, and color schemes inspired by dark-mode UIs.
 
