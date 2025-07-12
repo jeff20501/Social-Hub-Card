@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter';
+    font-size: 1.1rem;
+    max-inline-size: 1440px;
+
+}
+
+.wrapper{
+    background-color:  hsl(0, 0%, 12%);
+    color:hsl(0, 0%, 100%);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    max-inline-size: 500px;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.avatar-name{
+    color:hsl(0, 0%, 100%);
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+img{
+    display: block;
+    max-inline-size: 100%;
+}
+
+.avatar-image{
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 100px;
+    inline-size: 100px;
+}
+
+p{
+    text-align: center;
+}
+
+.location{
+    color:hsl(75, 94%, 57%);
+    margin-bottom: 30px;
+}
+
+
+.attribution{
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+}
+
+ul li{
+    list-style: none;
+}
+
+ul li button{
+    max-inline-size: 320px;
+}
+
+button{
+    margin: 0;
+    border: none;
+    text-align: center;
+    font-family: 'Inter';
+    font-weight: 600;
+    inline-size: 320px;
+    block-size: 40px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    color:hsl(0, 0%, 100%) ;
+}
+
+button:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+    cursor:pointer;
+}
+
+button:hover:focus{
+    background-color:#36e2c2;
+    color: hsl(0, 0%, 8%);
+}
+
+.links{
+    text-decoration: none;
+    color: hsl(75, 94%, 57%);
+}
+
+.links:hover{
+    color: #36e2c2;
+}
